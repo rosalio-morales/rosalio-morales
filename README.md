@@ -1,2 +1,2 @@
+![GIF animado](https://media1.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.webp?cid=ecf05e47uhyxfbd403qisez2vekzdsh5gxh4vebe0zylmg6k&ep=v1_gifs_related&rid=giphy.webp&ct=g)
 
-![archivos](https://github.com/user-attachments/assets/4b2f3007-eb64-42f1-a651-d595cfb030e6)
