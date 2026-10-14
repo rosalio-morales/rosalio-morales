@@ -1,8 +1,8 @@
 ## Hola, soy Rosalio Morales 👋
 
-**Desarrollador Fullstack | Contribuyente activo en LibreOffice** · Jalisco, México
+**Desarrollador Full Stack (MERN)** · Zapopan, Jalisco, México
 
-Soy desarrollador fullstack con enfoque en software limpio y mantenible. Participo activamente en el desarrollo de LibreOffice, aplicando buenas prácticas modernas en C++, debugging y refactorización. Tengo experiencia construyendo soluciones completas con HTML, CSS, JavaScript, PHP, Java, Node.js, PostgreSQL y MongoDB. Apasionado por la mejora continua, el trabajo remoto y los retos técnicos reales.
+Soy desarrollador full stack con enfoque en software limpio y mantenible. Construyo aplicaciones web completas con React, Node.js, Express y MongoDB, desde la API y los pagos hasta el despliegue. En 2025 trabajé en tareas de modernización de C++ de LibreOffice y pasé por su proceso de code review en Gerrit. Apasionado por la mejora continua, el trabajo remoto y los retos técnicos reales.
 
 ---
 
@@ -27,4 +27,6 @@ Punto de venta e inventario en la nube para refaccionarias y comercios: cada neg
 
 ### 📫 Contacto
 
+- Portafolio: [rosalio-morales.netlify.app](https://rosalio-morales.netlify.app)
+- Correo: [rosalio.morales.dev@gmail.com](mailto:rosalio.morales.dev@gmail.com)
 - LinkedIn: [in/rosalio-morales-6a766733a](https://www.linkedin.com/in/rosalio-morales-6a766733a)
